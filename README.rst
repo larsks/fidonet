@@ -1,4 +1,4 @@
-This project has been renamed to pyton-ftn_.  Please see:
+This project has been renamed to python-ftn_.  Please see:
 
   http://github.com/larsks/python-ftn/
 
